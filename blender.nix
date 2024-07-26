@@ -24,6 +24,7 @@
       libXrender
       libXrandr
       libXi
+      libXinerama
       libXxf86vm
       libXfixes
       libXi
